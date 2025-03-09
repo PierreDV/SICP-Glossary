@@ -1,0 +1,68 @@
+# Structure and Interpretation of Computer Programs Glossary
+
+- Abstraction
+  - Definitions that associate names with values are an example of abstraction.
+- Applicative-order evaluation
+  - a family of evaluation orders in which a function's arguments are
+    evaluated completelt before the function is applied
+- Argument - the acutal input expression passed to a function or procedure.
+- Case analysis - an assessement of scenarios that an algorithm will encounter.
+- Clauses - a logical rule in a logic program
+- Combination
+- Compound data - a data type made up of more than one component.
+- Compound expression
+- Compound procedure
+- Computation
+  - any type of arithmetic or non-arithmetis calculation that is well-defined.
+- Computational object - Anything that can be the value of a variable.
+- Conditional
+  - a programming language construct that performs different computations or
+    actions or return different values depending on the value of a predicate.
+- Consequent expression
+- Data - stuff that we want to manipulate.
+- Definitions
+- Environment - memory that keeps track of name-object pairs.
+- Evaluation rule
+- Expression
+- Formal parameter
+- Global Environment
+- Interpreter
+- Machine instructions
+- Memory
+- Mutable data
+- Nesting
+- Node - a basic unit of a data structure.
+- Normal-order evaluation
+- Numeral
+- Operands
+- Operator
+- Predicate
+  - a procedure that returns, or expression whose value is interpreted as,
+    either true or false.
+- Prefix notation
+  - the convention of placing the operator to the left of the operands.
+- Pretty-printing
+- Primitive data
+  - a string, number or boolean would be an example of primitive data.
+- Primitive procedure
+  - arithmetic operations such as "+" and "-" are examples of primitive
+    procedures.
+- Process
+- Procedure - descriptions of the rules for manipulating data.
+- Procedure application
+- Procedure definition
+- Procedural
+- Program execution
+- Read-eval-print-loop
+- Recursion
+- Special forms
+- Stream proccessing
+- Subexpression
+- Substitution model
+- Syntax
+- Syntactic sugar
+- Symbol
+- Terminal node - a node with no branches stemming from it.
+- Tree accumulation
+- Value
+- Variable
